@@ -1,4 +1,14 @@
-### Hi there 👋
+### 哈喽 👋
+
+### 动漫推荐
+|日常|灵笼|雾山五行|大理寺日志|ReLIFE|风灵玉秀|
+
+### 书籍推荐
+- 掌控：开启不疲惫、不焦虑的人生 —— 张展晖
+- 幸福的方法 —— 泰勒·本·沙哈尔
+- 长安十二时辰 —— 马伯庸
+- 浪花少年侦探团 —— 东野圭吾
+- 再见了，忍老师 —— 东野圭吾
 
 <!--
 **Urchinzhou/Urchinzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
